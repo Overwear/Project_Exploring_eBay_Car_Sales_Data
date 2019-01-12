@@ -8,3 +8,6 @@ In this project I used python's pandas library to:
 * remove outlier data that skewed the dataset
 * analyze aggregate columns to view relationships and patterns.
 * created data series and data frames from subsets of the dataset
+
+## Notes
+You will need to download the jupyter notebook to run and view the markdown correctly. The markdown in jupyter notebook does not transfer well to github's markdown.
